@@ -39,5 +39,11 @@ while True:
 ```
  
 ## OUTPUT
+#server.py output
+<img width="1181" height="607" alt="image" src="https://github.com/user-attachments/assets/11cb6f80-677a-4984-84a2-d51d825f492f" />
+
+#client.py output
+
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
